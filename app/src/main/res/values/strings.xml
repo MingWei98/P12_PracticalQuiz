@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical Quiz</string>
+    <string-array name="website">
+        <item>RP</item>
+        <item>Google</item>
+    </string-array>
+</resources>
